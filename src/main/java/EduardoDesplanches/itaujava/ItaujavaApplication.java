@@ -1,6 +1,6 @@
 package EduardoDesplanches.itaujava;
 
-import EduardoDesplanches.itaujava.Estatistica.EstatisticasProperties;
+import EduardoDesplanches.itaujava.estatistica.EstatisticasProperties;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

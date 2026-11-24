@@ -1,4 +1,4 @@
-package EduardoDesplanches.itaujava.Config;
+package EduardoDesplanches.itaujava.config;
 
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Info;

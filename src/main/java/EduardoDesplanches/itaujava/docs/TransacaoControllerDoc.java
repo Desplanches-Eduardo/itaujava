@@ -1,4 +1,4 @@
-package EduardoDesplanches.itaujava.Docs;
+package EduardoDesplanches.itaujava.docs;
 
 import EduardoDesplanches.itaujava.transacao.TransacaoDTO;
 import io.swagger.v3.oas.annotations.Operation;

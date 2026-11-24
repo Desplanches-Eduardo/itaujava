@@ -1,6 +1,6 @@
 package EduardoDesplanches.itaujava.transacao;
 
-import EduardoDesplanches.itaujava.Estatistica.EstatisticaModel;
+import EduardoDesplanches.itaujava.estatistica.EstatisticaModel;
 import org.springframework.stereotype.Repository;
 
 import java.time.OffsetDateTime;
