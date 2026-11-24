@@ -75,8 +75,8 @@ estatistica:
 ```
 src/main/java/EduardoDesplanches/itaujava
 ├── transacao/    controller, service, repository em memória, DTO e mapper
-├── Estatistica/  controller, modelo de resposta e propriedades da janela
-├── Docs/         interfaces com as anotações OpenAPI dos controllers
-├── Config/       configuração do OpenAPI
+├── estatistica/  controller, modelo de resposta e propriedades da janela
+├── docs/         interfaces com as anotações OpenAPI dos controllers
+├── config/       configuração do OpenAPI
 └── GlobalExceptionHandler.java
 ```

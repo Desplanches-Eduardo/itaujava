@@ -1,5 +1,5 @@
 package EduardoDesplanches.itaujava.transacao;
-import EduardoDesplanches.itaujava.Docs.TransacaoControllerDoc;
+import EduardoDesplanches.itaujava.docs.TransacaoControllerDoc;
 import jakarta.validation.Valid;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;

@@ -1,4 +1,4 @@
-package EduardoDesplanches.itaujava.Estatistica;
+package EduardoDesplanches.itaujava.estatistica;
 
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Positive;

@@ -1,6 +1,6 @@
-package EduardoDesplanches.itaujava.Estatistica;
+package EduardoDesplanches.itaujava.estatistica;
 
-import EduardoDesplanches.itaujava.Docs.EstatisticaControllerDoc;
+import EduardoDesplanches.itaujava.docs.EstatisticaControllerDoc;
 import EduardoDesplanches.itaujava.transacao.TransacaoRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;

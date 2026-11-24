@@ -1,4 +1,4 @@
-package EduardoDesplanches.itaujava.Estatistica;
+package EduardoDesplanches.itaujava.estatistica;
 import lombok.Builder;
 import lombok.Data;
 

@@ -1,6 +1,6 @@
-package EduardoDesplanches.itaujava.Docs;
+package EduardoDesplanches.itaujava.docs;
 
-import EduardoDesplanches.itaujava.Estatistica.EstatisticaModel;
+import EduardoDesplanches.itaujava.estatistica.EstatisticaModel;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.media.ExampleObject;
