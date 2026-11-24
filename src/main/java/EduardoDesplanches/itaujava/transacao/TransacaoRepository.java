@@ -4,13 +4,14 @@ import EduardoDesplanches.itaujava.estatistica.EstatisticaModel;
 import org.springframework.stereotype.Repository;
 
 import java.time.OffsetDateTime;
-import java.util.ArrayList;
 import java.util.List;
+import java.util.Queue;
+import java.util.concurrent.ConcurrentLinkedQueue;
 
 @Repository
 public class TransacaoRepository {
 
-    private final List<Transacao> listaDeTransacoes = new ArrayList<>();
+    private final Queue<Transacao> listaDeTransacoes = new ConcurrentLinkedQueue<>();
 
     public void salvarDados(Transacao model) {
         listaDeTransacoes.add(model);
